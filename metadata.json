@@ -1,0 +1,6 @@
+{
+  "name": "Plantner",
+  "description": "AI-Powered Crop Diagnostics, Chatbot and IoT Farm Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
